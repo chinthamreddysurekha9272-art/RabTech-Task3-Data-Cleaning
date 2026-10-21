@@ -1,0 +1,8 @@
+Metric,Value
+Rows in original dataset,12
+Rows after cleaning,11
+Columns after cleaning,15
+Exact duplicate rows found before removal,1
+Duplicate order IDs removed,0
+Missing cells remaining,13
+Exact duplicate rows remaining,0
